@@ -23,6 +23,6 @@ The data for these characters is stored in an array of [Character Data](Assets/_
 ## External Plugins/Code
 * [Text Mesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126)
 * [DoTween](http://dotween.demigiant.com/)
-* [Paul Welter's XML Serializable Generic Dictionary Class](https://weblogs.asp.net/pwelter34/444961)
+* [Take Ash's Serializable Dictionary](https://github.com/TakeAsh/cs-SerializableDictionary)
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
 
