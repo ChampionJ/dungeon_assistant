@@ -2,7 +2,7 @@
 ## Description
 Dungeon Assistant is a mobile application to assist players of Dungeons and Dragons. By pairing this Unity mobile app with a web server created in node.js it will allow players to spend more time playing the game and less time managing tasks.
 
-This project is simply a small tool created for my own personal use mainly, designed for Android. 
+This project is simply a small tool created for my own personal use mainly, designed for Android. This source code should be used for reference purposes only.
 ## Setup
 This project requires [Text Mesh Pro](https://www.assetstore.unity3d.com/en/#!/content/84126) to work, download the free package from the Asset Store and import it to the Asset folder. After this is done you will need to close and re-open the project to refresh the scripts and text assets. 
 
@@ -25,4 +25,5 @@ The data for these characters is stored in an array of [Character Data](Assets/_
 * [DoTween](http://dotween.demigiant.com/)
 * [Take Ash's Serializable Dictionary](https://github.com/TakeAsh/cs-SerializableDictionary)
 * [Unity UI Extensions](https://bitbucket.org/UnityUIExtensions/unity-ui-extensions)
+[Full third-party-notice file](third-party-notices.txt)
 
