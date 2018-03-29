@@ -70,8 +70,8 @@ public class ScreenOptions {
 
         { SpriteType.OverlayBackground, new Color32(230, 230, 230, 255) },
         { SpriteType.OverlayElement,    new Color32(255, 255, 255, 255) },
-        { SpriteType.OverlayElement2,   new Color32(210, 210, 210, 255) },
-        { SpriteType.OverlayToggle,   new Color32(210, 210, 210, 150) },
+        { SpriteType.OverlayElement2,   new Color32(200, 200, 200, 255) },
+        { SpriteType.OverlayToggle,   new Color32(255, 255, 255, 150) },
         { SpriteType.OverlayHeader,     new Color32(255, 255, 255, 255) },
 
         { SpriteType.Element2,          new Color32(210, 210, 210, 255) },
